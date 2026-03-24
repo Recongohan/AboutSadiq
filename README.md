@@ -10,7 +10,7 @@
 
 ## Overview
 
-Single-page personal portfolio for Sayed Sadiq — Software Engineer & DevOps Professional based in Dubai, UAE. Built with zero frameworks and zero dependencies. Pure vanilla stack, shipped fast.
+Single page personal portfolio for Sayed Sadiq, Software Engineer & DevOps Professional based in Dubai, UAE. Built with zero frameworks and zero dependencies. Pure vanilla stack, shipped fast.
 
 ---
 
