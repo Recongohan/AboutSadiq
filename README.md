@@ -1,5 +1,7 @@
 # AboutSadiq | Simple Personal Portfolio
 
+#Link to website : https://aquamarine-manatee-651522.hostingersite.com
+
 ![Status](https://img.shields.io/badge/status-live-brightgreen?style=flat-square)
 ![Stack](https://img.shields.io/badge/stack-HTML%20%7C%20CSS%20%7C%20JS-00c8ff?style=flat-square)
 ![Deployed](https://img.shields.io/badge/deployed-Hostinger-blueviolet?style=flat-square)
